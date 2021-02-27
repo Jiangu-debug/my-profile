@@ -1,0 +1,31 @@
+.nav-link{
+    color: white !important;
+}
+
+.rounded-circle{
+    width: 150px;
+    height: 150px;
+}
+
+.jumbotron{
+    margin-bottom: 0%;
+}
+
+#about{ 
+    background-color: lightblue;
+}
+
+#Skills{
+    background-color: darkviolet;
+    color: black;
+}
+
+#Education{
+    background-color: goldenrod;
+    color: silver;
+}
+
+#awards{
+    background-color: darkorange;
+    color: red;
+}
